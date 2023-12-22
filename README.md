@@ -65,7 +65,7 @@ int main() {
 
 
 # Ekran Resmi
-![zyrasoftware](kodde.PNG)
+![zyrasoftware](kodde.png)
 
 # Bilgilendirme
 **---------------------------------------------------------**
